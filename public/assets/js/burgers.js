@@ -37,6 +37,7 @@ $(function() {
   
       var newBurger = {
         name: $("#burg").val().trim()
+        // If allowing user to select which list to put burger into
         // devoured: $("[name=devoured]:checked").val().trim()
       };
   
