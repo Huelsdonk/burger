@@ -6,7 +6,7 @@
 
 ## Installation
     
-    The server for the app runs in Node and requires the express, express-handlebars, and mysql packages. The app is deployed, though, at 
+    The server for the app runs in Node and requires the express, express-handlebars, and mysql packages. 
         
 
 ![App](public/assets/img/app.png)
