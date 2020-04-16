@@ -1,0 +1,46 @@
+body {
+  font-family: 'Annie Use Your Telescope', cursive;
+  font-size: 20px;
+  font-weight: 600;
+  background-image: url('/assets/img/mmmburger.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+i {
+  color: rgba(0, 0, 0, 0.582);
+}
+
+.list-group-item {
+  background-color: #c2c2c230;
+  /* color: mediumaquamarine; */
+  font-size: 1.2em;
+  
+}
+
+.jumbotron {
+  background: rgba(95, 158, 160, 0.509);
+}
+  
+ .change-devoured, .delete-burger {
+   font-size: .8em !important;
+   background-color: rgba(95, 158, 160, 0.509);
+   border: 1px solid black
+ }
+  
+ .create-form {
+  background-color: #c2c2c230;
+  font-size: 1.6rem;
+   
+ }
+ 
+ #burg {
+   opacity: .5;
+ }
+ #addaburger {
+  background-color: rgba(95, 158, 160, 0.509);
+  border: 1px solid black;
+  border-radius: 0;
+
+
+ }
